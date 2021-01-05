@@ -1,3 +1,5 @@
+# generator is a iterator 
+
 def _odd_iter():
     n = 1
     while True:
